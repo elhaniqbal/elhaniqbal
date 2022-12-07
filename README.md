@@ -43,7 +43,7 @@ I built a line following robot using an L298n motor driver, an Arduino Uno and Q
 This is a full stack web application that allows user to review, add, update and delete restaurants of different cuisines. Its primarily intended for immigrants in North America who want a sense of home and can find restaurants that serve authentic local cuisine of their nationalities. I used JavaScript and frameworks such as MongoDB, Express and Mongoose to perform CRUD operations and basic error handling. 
 I used Passport.js for authentication and authorization. The front end was built using EJS, Bootstrap, HTML/CSS. 
 
-This course is special to me as this was my entry point to learning web development. The project is based on and inspired by the YelpCamp project by Colt Steele on Udemy. Despite being a learned project, I believe it requires a special mention as this project and the course taught me a lot about web development!
+This course is special to me as this was my entry point to learning web development. The project is based on and inspired by the YelpCamp project by Colt Steele on Udemy. This project taught me a lot about web development!
 
 ### Semi-Autonomous Claw (Team Project)
 This was a team project for a course where we had to develop a claw system to automatically grab and hold onto objects of different shapes and sizes. We used an Arduino UNO, a sonar and a servo motor. I helped ideate and prototype different concepts and helped in construction of the final claw. I also aided in creating an effective e-poster using Office Suite to provide an overview of the project to all stakeholders.
