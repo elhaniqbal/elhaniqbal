@@ -52,4 +52,4 @@ This was a team project for a course where we had to develop a claw system to au
 ### Languages: JavaScript, TypeScript, C, Python, HTML/CSS
 ### Technologies/Frameworks: NodeJS, MongoDB, Express, Mongoose, Bootstrap, Svelte, Git, GitHub
 ### Other: Object Oriented Programming, Data Structures and Algorithms, MATLAB, Solidworks, Office Suite, G-Suite, Arduino, Soldering, Circuit Analysis
-### Currently Learning/ Interests: React, Docker, Django, SQL, Selenium, C++
+### Currently Learning/Interests: React, Docker, Django, SQL, Selenium, C++
