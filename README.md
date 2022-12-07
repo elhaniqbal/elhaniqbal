@@ -1,4 +1,4 @@
-# 👋 Hi there!, I’m [@elhaniqbal](https://www.github.com/elhaniqbal). Welcome to my GitHub page!
+# 👋 Hi there! I’m [@elhaniqbal](https://www.github.com/elhaniqbal). Welcome to my GitHub page!
 
 
 # ABOUT ME 😄
@@ -34,13 +34,13 @@ This is a project I wanted to work on for a long time. I intend to use React and
 ## Past Projects 🦾
 
 ### [Health App](https://github.com/arafimam/HealthApp) (Team Project) 
-I co-produced a full stack web application with [@arafImam](https://github.com/arafimam) that calculates user BMI and generates health reports based on calorie intake. I primarily worked on the front end and styled elements using Bootstrap and EJS and JavaScript. I added elements such as form validation and reorganized files for faster and efficient code. 
+I co-produced a full stack web application with [@arafImam](https://github.com/arafimam) that calculates user BMI and generates health reports based on calorie intake. I primarily worked on the front end and styled elements using Bootstrap, EJS and JavaScript. I added elements such as form validation and reorganized files for faster and efficient code. 
 
 ### Line Following Robot (Course Project)
 I built a line following robot using an L298n motor driver, an Arduino Uno and QR1114 sensors. This project was part of a course where the goal was to learn how to use different electrical components and troubleshoot circuits. The project helped nourish my skills in soldering, circuit analysis and troubleshooting.
 
 ### [eatLocal](https://github.com/elhaniqbal/eatLocal) (Personal Project)
-This is a full stack web application that allows user to review, add, update and delete restaurants of different cuisines. Its primarily intended for immigrants in North America who want a sense of home and can find restaurants that serve authentic local cuisine of their nationalities. I used JavaScript and frameworks such as MongoDB, Express and Mongoose to perform CRUD operations and basic error handling. 
+This is a full stack web application that allows users to review, add, update and delete restaurants of different cuisines. Its primarily intended for immigrants in North America who want a sense of home and can find restaurants that serve authentic local cuisine of their nationalities. I used JavaScript and frameworks such as MongoDB, Express and Mongoose to perform CRUD operations and basic error handling. 
 I used Passport.js for authentication and authorization. The front end was built using EJS, Bootstrap, HTML/CSS. 
 
 This course is special to me as this was my entry point to learning web development. The project is based on and inspired by the YelpCamp project by Colt Steele on Udemy. This project taught me a lot about web development!
