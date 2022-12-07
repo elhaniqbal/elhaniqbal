@@ -28,7 +28,7 @@ and also nourished my interpersonal skills such as teamwork and communication.
 This is a capstone team project for a course where we are building a fully autonomous ukulele player from scratch. Users will be able to select songs using buttons and once the song is 
 selected the system will play the melody of that song on the ukulele. I will be focusing mainly on the electrical and software aspect of this project while also help with some of the mechanical aspects and research. The link to the project will be provided upon completion.
 
-###Portfolio Site (Personal Project)
+### Portfolio Site (Personal Project)
 This is a project I wanted to work on for a long time. I intend to use React and TypeScript to make a dynamic portfolio page. The project is currently in progress
 
 ## Past Projects 🦾
