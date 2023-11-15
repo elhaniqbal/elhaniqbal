@@ -10,6 +10,7 @@ During my spare time, I enjoy learning about software development, autonomous ve
 <details>
 <summary> <h3> Tiger IT Bangladesh Ltd. (May 2023- August 2023) </h3></summary>
 <br/>
+  
 ### Software Engineer Intern
 This was my first experience with the software industry. Furthermore, this was also my first experience with Machine Learning. I spent most of my internship getting introduced to machine learning. I performed extensive tests on different machine learning models to determine their applicability for real time inference. Furthermore, I spearheaded the development of a web app to perform action recognition on live camera feeds using TensorFlow, Flask, OpenCV and Python. 
 </details>
