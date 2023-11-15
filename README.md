@@ -16,6 +16,7 @@ This was my first experience with the software industry. Furthermore, this was a
 <details>
 <summary link: https://www.ubcuas.com/ > <h3>UBC Uncrewed Aircraft Systems (September 2021 - Present) 🛩️</h3> </summary>
 <br/>
+  
 ### Software Developer & Administrative Member (September 2022 - Present) 
 This is my current role at my design team where I help build software systems that help run our competition drones and aircraft. 
 I developed a ligthweight front end of our new ground control stataion software using TypeScript and Svelte and incorporated elements such as a QR scanner and set up endpoints to improve overall usage of competition software.
