@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m [@elhaniqbal](https://www.github.com/elhaniqbal). Welcome to my Github page!
+# 👋 Hi there! I’m [@elhaniqbal](https://www.github.com/elhaniqbal). Welcome to my GitHub page!
 
 
 # ABOUT ME 😄
