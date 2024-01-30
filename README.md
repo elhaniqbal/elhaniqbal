@@ -36,8 +36,8 @@ and also nourished my interpersonal skills such as teamwork and communication.
 <summary> <h2 align: center > Current Projects 🎯</h2></summary>
 <br/>
   
-### Trash-E (Autonomous Underwater Trash Collection Robot) 
-This is one of my most ambitious project yet. I am working on the software and electrical aspects of the project. I am currently using ROS for the main robot and using python to perform self navigation, trash detection and also controlling the movement mechanism. There are plans for an Android/iOS app. Via this project, I hope to gain extensive knowlege and expertise in ROS, integrating ML models and networking protocols such as TCP/IP and UDP. I also hope to gain experience with PCB design!
+### Trash-E (Autonomous Underwater Trash Remediation Robot) 
+This is one of my most ambitious project yet. I am working on the software and electrical aspects of the project. I am currently using ROS2 for the main robot and using python to perform self navigation, trash detection and also controlling the movement mechanism. There are plans for an Android/iOS app. Via this project, I hope to gain extensive knowlege and expertise in ROS, integrating ML models and networking protocols such as TCP/IP and UDP. I also hope to gain experience with PCB design!
 
 ### Portfolio Site (Personal Project)
 This is a project I wanted to work on for a long time. I intend to use React and TypeScript to make a dynamic portfolio page. The project is currently in progress.
@@ -47,6 +47,8 @@ This is a project I wanted to work on for a long time. I intend to use React and
 <summary> <h2>Past Projects 🦾 </h2>  </summary>
 <br/>
 
+### [WasteWizard](https://devpost.com/software/wastewizard-oyiqta?ref_content=user-portfolio&ref_feature=in_progress) (nwHacks 2024, Top 3 🏆)
+WasteWizard is a digital biomedical waste management app catered towards two different types of users: Custodian and Admin. Featuring MappedIn's indoor navigation as a trash locator features, real time waste collection updates populated onto a database (MongoDB Atlas) and Auth0 for authentication, this app can be applied to any system and ranked top 3 in the Sustainability & Environment Track out of 170+ projects and 740+ participants!
 ### [The UkeBox 🎸](https://www.youtube.com/watch?v=JwMDRXbq4SY)(Team Project)
 This is a capstone team project for a course where we built a fully autonomous ukulele player from scratch. Users will be able to select songs using buttons and once the song is 
 selected the system will play the melody of that song on the ukulele. I devised the power system which quadrupled operation time using buck converter and a laptop battery and performing extensive tests. I also worked on basic arduino code for the playing mechanism and followed the I2C communication protocol to set up communication between the user interface and the primary Arduino Mega. 
